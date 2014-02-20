@@ -3,11 +3,11 @@
  */
 
 var
-  Emitter   = require('emitter'),
-  events    = require('event'),
-  domify    = require('domify'),
-  rotate    = require('rotate'),
-  extend    = require('extend'),
+  Emitter   = require('component-emitter'),
+  events    = require('component-event'),
+  domify    = require('component-domify'),
+  rotate    = require('jsantell-rotate'),
+  extend    = require('gorillatron-extend'),
   template  = require('./template');
 
 /**

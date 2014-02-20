@@ -1,0 +1,22 @@
+{
+  "name": "jsantell-dial",
+  "description": "A UI dial component",
+  "version": "0.0.4",
+  "keywords": [
+    "dial",
+    "knob",
+    "rotate",
+    "ui"
+  ],
+  "styles": [
+    "dial.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "gorillatron-extend": "git://github.com/npmcomponent/gorillatron-extend.git",
+    "jsantell-rotate": "git://github.com/npmcomponent/jsantell-rotate.git"
+  },
+  "license": "MIT"
+}
